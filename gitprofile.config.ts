@@ -12,6 +12,7 @@ const CONFIG = {
    */
   // step 1: change the base to your repo name
   base: '/personal_profile/',
+  
   projects: {
     github: {
       display: true, // Display GitHub projects?
